@@ -11,7 +11,7 @@ start_time = time.time()
 def get_filters(): 
     # Hi this is 1st change according to documentation2 branch
 
-# And this is the 2nd change according to documentation2
+# And this  is the 2nd change according to documentation2
     """
     Asks user to specify a city, month, and day to analyze.
 <<<<<<< HEAD
