@@ -9,7 +9,7 @@ CITY_DATA = { 'chicago': r'C:\Users\ghost\Downloads\chicago.csv',
             ,'washington': r'C:\Users\ghost\Downloads\washington.csv'}
 start_time = time.time()
 def get_filters(): 
-    
+    # Comment added according to refactor 1st change
     """
     Asks user to specify a city, month, and day to analyze.
 <<<<<<< HEAD
